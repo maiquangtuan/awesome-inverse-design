@@ -7,5 +7,5 @@ This is the collection of resources related to inverse design using machine lear
 3. **Metaheuristic-based inverse design of materials – A survey** 2020 [paper](https://www.sciencedirect.com/science/article/pii/S2352847819302084)
 
 # Tutorials/Workshops
-1. Deep Learning for Inverse Design - FAN LAB [link](https://fanlab.stanford.edu/dl/)
+1. **Deep Learning for Inverse Design - FAN LAB** [link](https://fanlab.stanford.edu/dl/)
 
