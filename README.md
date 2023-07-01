@@ -8,4 +8,7 @@ This is the collection of resources related to inverse design using machine lear
 
 # Tutorials/Workshops
 1. **Deep Learning for Inverse Design - FAN LAB** [link](https://fanlab.stanford.edu/dl/)
+2. **Photonic Design: From Fundamental Solar Cell Physics to Computational Inverse Design** [paper](https://arxiv.org/pdf/1308.0212.pdf)
 
+# Photonics Inverse Design 
+1. **Deep Learning for Design and Retrieval of Nano-photonic Structures** [paper](https://arxiv.org/ftp/arxiv/papers/1702/1702.07949.pdf) 
