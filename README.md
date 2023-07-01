@@ -7,8 +7,8 @@ This is the collection of resources related to inverse design using machine lear
 3. **Metaheuristic-based inverse design of materials – A survey** 2020 [paper](https://www.sciencedirect.com/science/article/pii/S2352847819302084)
 
 # Tutorials/Workshops
-1. **Deep Learning for Inverse Design - FAN LAB** [link](https://fanlab.stanford.edu/dl/)
-2. **Photonic Design: From Fundamental Solar Cell Physics to Computational Inverse Design** [paper](https://arxiv.org/pdf/1308.0212.pdf)
+1. **Deep Learning for Inverse Design - FAN LAB** 2019 [link](https://fanlab.stanford.edu/dl/)
+2. **Photonic Design: From Fundamental Solar Cell Physics to Computational Inverse Design** 2013 [paper](https://arxiv.org/pdf/1308.0212.pdf)
 
 # Photonics Inverse Design 
-1. **Deep Learning for Design and Retrieval of Nano-photonic Structures** [paper](https://arxiv.org/ftp/arxiv/papers/1702/1702.07949.pdf) 
+1. **Deep Learning for Design and Retrieval of Nano-photonic Structures** 2017 [paper](https://arxiv.org/ftp/arxiv/papers/1702/1702.07949.pdf) 
